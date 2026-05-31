@@ -1,0 +1,38 @@
+# Virtual Environment
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Gradio
+.gradio/
+
+# VS Code
+.vscode/
+
+# Audio Testing Files
+ai_response.wav
+test.wav
+
+# Generated Audio Results
+data/audio/
+data/audio_ai/
+
+# Large Coqui Model Files
+app/coqui_tts/checkpoint_1260000-inference.pth
+
+# Temporary Files
+*.log
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+speakers.pth

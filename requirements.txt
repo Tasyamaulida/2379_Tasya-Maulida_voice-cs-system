@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gradio
+google-genai
+python-dotenv
+coqui-tts
+pydub
+openai-whisper
+transformers==4.36.2
+torch
+torchaudio
